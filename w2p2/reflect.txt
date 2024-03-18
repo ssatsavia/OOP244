@@ -1,0 +1,16 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - 2 (P2)
+Full Name  : Sage Satsavia
+Student ID#: 132238197
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+
+Throughout this workshop, Ive learned new concepts such as dynamic memory allocation, structs, namespaces, and modular programming and creating classes. the most important aspect I payed more attention was to memory management, ensuring that the program successfully deallocates the  dynamically allocated memory to prevent memory leaks. Modular programming was used by dividing code into separate modules for Rooms and Guests, promoting code organization, reusability, and maintainability and also more efficiency. Despite these concepts being familiar, I encountered challenges in managing memory correctly, particularly in the vacate and delete the allocated memory function, I kept getting a SIGART error and since it was very vague I had to delve more into the core theory behind it and also check or any semantic error I had or had in my code. Debugging these issues not only reinforced my understanding of memory allocation and manipulation but it also gave me a chance to see how such error can be dealt with if I were to experience them in work life inviorment, thus, gaining valuable experience.
+
+
