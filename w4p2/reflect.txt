@@ -1,0 +1,15 @@
+
+//////////////////////////////////////////////////////////////////////
+Full Name  : Sage Satsavia
+Student ID#: 132238197
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creationThroughout this workshop
+//////////////////////////////////////////////////////////////////////
+
+
+
+I delved deeper into C++ programming concepts like classes, namespaces, input/output handling, and error management. In object-oriented programming, a class serves as a template for building objects, specifying their characteristics and actions. Constructors, specialized methods within a class, are pivotal for initializing objects. They perform specific tasks essential for establishing an object's initial state, such as assigning initial values to its attributes or executing necessary setup operations. Constructors are vital for furnishing crucial details to objects and ensuring they are adequately prepared for use. Without constructors, object initialization would be cumbersome and error-prone, particularly when dealing with numerous objects. By encapsulating the initialization process within constructors, we can streamline object creation and setup, enhancing code clarity and ease of maintenance. Constructors automate the initialization procedure, saving time and effort while maintaining consistency across multiple object instances. 
+To summarize, constructors are essential elements of object-oriented programming, simplifying object creation and setup, and enhancing the efficiency and reliability of the codebase.
