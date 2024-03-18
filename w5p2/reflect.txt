@@ -1,0 +1,14 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #5
+Full Name  : Sage Satsavia
+Student ID#: 132238197
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+
+In crafting the Hero class as part of this workshop, I delved deeper into the world of object-oriented programming, particularly focusing on inheritance and operator overloading within C++. The Hero class served as a blueprint for creating different heroes, each with unique abilities, and involved managing memory dynamically to handle their powers list. Looking back, I faced hurdles in handling dynamic memory and ensuring everything was properly cleaned up, especially with the powers stored in the dynamic array. However, by meticulously implementing and testing constructors, destructors, and overloaded operators, I successfully tackled these obstacles. Overall, working on the Hero class not only honed my C++ skills but also underscored the importance of clear documentation, sticking to guidelines, and rigorous testing to maintain a robust codebase.
