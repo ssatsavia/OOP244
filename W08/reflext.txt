@@ -1,0 +1,21 @@
+//**********************************************************************
+//Workshop : #8 
+//Full Name : Sage Satsavia
+//Student ID# : 132238197
+
+//I have done all the coding by myself and only copied the code 
+//that my professor provided to complete my workshops and assignments.
+//**********************************************************************
+
+
+The most important parts to study in W8 and MILESTONE3 is virtual function. 
+A virtual function is a member function declared within a base class and overridden by a derived class. 
+When an object of a derived class is referenced using a pointer or a reference to a base class, 
+we can call virtual functions on that object and execute functions of the derived class. 
+Virtual functions must be declared in 'public'. 
+In workshop8, 'iAccount class' is interface which is an abstract base class with only pure virtual functions. 
+So, I put the word 'virtual' in front of the function and declare it as '=0' after the prototype of the function. 
+In 'Account class', the actual implementation of 'credit' and 'debit' occurs.
+In MS3, Streamable Interface module and Publication class module all were not easy at all. 
+Especially, 'istream& read(istream& istr) in Publicaion.cpp' this function was the most hardest one. 
+It was long process and spend many of times.
